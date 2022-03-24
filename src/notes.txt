@@ -1,0 +1,9 @@
+//icon source: <a target="_blank" href="https://icons8.com/icon/48369/brain">Brain</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+
+
+//Temp React Version Change
+    //Changed react-scripts in package.json to 4.0.2 --- change back to 5.0.0 after moving API to backend
+
+//To Fix
+    //Re-size logo to take up whole container
+    
