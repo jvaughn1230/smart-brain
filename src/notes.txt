@@ -6,4 +6,5 @@
 
 //To Fix
     //Re-size logo to take up whole container
+    //add background effect
     
